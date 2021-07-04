@@ -1,3 +1,4 @@
 # JetBrains files #
 *.iml
 /.idea
+/venv/
